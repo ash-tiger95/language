@@ -63,7 +63,7 @@ public class Main_Silver4_9012_괄호 {
 	}
 
 	/* 방법2) 개수로 판별하기 (120ms) */
-	private static String otherSolve(String str) {
+	private static String otherSolved(String str) {
 		int count = 0;
 
 		for (char c : str.toCharArray()) {
