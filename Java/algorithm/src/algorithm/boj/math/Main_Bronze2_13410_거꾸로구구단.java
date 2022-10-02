@@ -32,6 +32,7 @@ public class Main_Bronze2_13410_거꾸로구구단 {
 		System.out.println(answer);
 
 		System.out.println(solve2());
+		System.out.println("TEST");
 	}
 
 	// 풀이2) 숫자 뒤집기 (계산), 124ms
